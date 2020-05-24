@@ -8,5 +8,5 @@ Additional fields to be completed are the: </br>
   <li><b>app:content</b> <- reference to the layout displayed after expansion</li>
 </ul>
 </br>
-Have fun!
+Have fun! Have :cookie:
 
